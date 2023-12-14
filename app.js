@@ -40,6 +40,7 @@ let cards = [
     ],
     buttonText: "go ultimate",
   },
+  //  ADD MORE ITEMS
 ];
 
 // ------------ CREATE CARDS ------------ //
@@ -106,6 +107,7 @@ window.addEventListener("load", function () {
     });
   }
 
+  // ------------ CALL FUNCTION WITH ELEMENTS AND COLORS ------------ //
   addGlowEffect(card1, "#262626");
   addGlowEffect(card2, "#262626");
   addGlowEffect(card3, "#262626");
